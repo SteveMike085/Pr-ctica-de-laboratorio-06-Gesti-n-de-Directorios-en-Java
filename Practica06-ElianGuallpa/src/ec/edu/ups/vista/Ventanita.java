@@ -15,7 +15,7 @@ import javax.swing.DefaultListModel;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Anahi
+ * @author SteveMike
  */
 public class Ventanita extends javax.swing.JFrame {
     private Directorio controladorDirectorio;
